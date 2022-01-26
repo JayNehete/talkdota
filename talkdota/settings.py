@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-obj+%ta-zpfp0(-g3cxzr7j0(zmzq(jo(0po@+4%1b^d^&ldt^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://talkdota.herokuapp.com/','localhost']
 
 
 # Application definition
